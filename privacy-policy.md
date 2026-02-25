@@ -91,7 +91,7 @@ Parents have the right to:
 - Request deletion of their child's information (not applicable)
 - Refuse further collection of their child's information (not applicable)
 
-If you have any questions or concerns about your child's privacy, please contact us at [support@secwebsolutions.com].
+If you have any questions or concerns about your child's privacy, please contact us at support@secwebsolutions.com.
 
 ---
 
@@ -105,21 +105,12 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** [support@secwebsolutions.com]  
-**Website:** [www.secwebsolutions.com]  
-**Developer:** [Security Web Solutions LLC / Ahmed el ouadrhiri]
+**Email:** support@secwebsolutions.com
+**Website:** www.secwebsolutions.com 
+**Developer:** Security Web Solutions LLC / Ahmed el ouadrhiri
 
 ---
 
 ## Consent
 
 By downloading and using Kids Memory Match, you consent to this Privacy Policy.
-
----
-
-**Note to Developer:**
-1. Replace all [bracketed placeholders] with your actual information
-2. Choose the appropriate sections based on whether you use ads/analytics
-3. Host this policy on a public URL (GitHub Pages, your website, etc.)
-4. Add the URL to Google Play Console → Store presence → Privacy policy
-5. Update the "Effective Date" to today's date
