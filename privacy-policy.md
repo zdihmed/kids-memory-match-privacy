@@ -258,7 +258,6 @@ The App does not contain links to third-party websites or services. All function
 If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
 **Security Web Solutions**  
-**Developer:** Ahmed El Ouadrhiri  
 **Email:** support@secwebsolutions.com  
 **Website:** https://www.secwebsolutions.com  
 **Business Location:** United States
